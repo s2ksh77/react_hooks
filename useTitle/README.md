@@ -1,3 +1,3 @@
-# sooks/use-title
+# @soo_hooks/use-title
 
-Reack Hook to update your document's title
+React Hook to update your document's title

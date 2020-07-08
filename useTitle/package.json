@@ -1,8 +1,12 @@
 {
-  "name": "@sooks/use-title",
-  "version": "1.0.0",
+  "name": "@soo_hooks/use-title",
+  "version": "1.0.1",
   "description": "React Hook to update your document's title",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s2ksh77/react_hooks.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +16,10 @@
     "title"
   ],
   "author": "soohyun_kim2 (s2ksh77)",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/s2ksh77/react_hooks#readme",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
 }
